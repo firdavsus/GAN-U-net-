@@ -4,9 +4,11 @@ It is trained on Citylandscape dataset for object detection in a single pass
 
 ## Visulaizations
 Model predicted:
+
 ![Local Image](./saved_images/pred_random.png)
 
 Actual:
+
 ![Local Image](./saved_images/true_random.png)
 
 ## Characteristics
