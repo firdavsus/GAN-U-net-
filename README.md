@@ -4,10 +4,10 @@ It is trained on Citylandscape dataset for object detection in a single pass
 
 ## Visulaizations
 Model predicted:
-![alt text](./saved_images/pred_random)
+![Local Image](./saved_images/pred_random)
 
 Actual:
-![alt text](./saved_images/true_random)
+![Local Image](./saved_images/true_random)
 
 ## Characteristics
 Accuracy (pixels) -> 76%
