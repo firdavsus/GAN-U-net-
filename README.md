@@ -18,3 +18,9 @@ Dice -> 26% (awfull for now)
 it has 5 down and 5 up layers total of 10 layers:
 [64, 128, 256, 512, 1024]
 Its architecture is the most basic one.
+
+it has 30 classes:
+'unlabeled', 'dynamic', 'ground', 'road', 'sidewalk', 'parking', 'rail track', 'building', 'wall',
+'fence', 'guard rail', 'bridge', 'tunnel', 'pole', 'traffic light', 'traffic sign', 'vegetation', 
+'terrain', 'sky', 'person', 'rider', 'car', 'truck', 'bus', 'caravan', 'trailer', 'train', 
+'motorcycle', 'bicycle', 'license plate'
